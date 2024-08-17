@@ -1,11 +1,11 @@
 {
-    "name": "testpackage/test_v1",
+    "name": "prttestpackage/test_v1",
     "description": "learning to create own composer package",
     "type": "library",
     "license": "PK",
     "autoload": {
         "psr-4": {
-            "Testpackage\\TestV1\\": "src/"
+            "PrtTestpackage\\TestV1\\": "src/"
         }
     },
     "authors": [
