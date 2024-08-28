@@ -2,7 +2,7 @@
     "name": "prttestpackage/test_v1",
     "description": "learning to create own composer package",
     "type": "library",
-    "license": "PK",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "PrtTestpackage\\TestV1\\": "src/"
